@@ -1,0 +1,11 @@
+POST http://localhost:5000/profile/add
+Content-Type: application/json
+
+{
+  "name": "Napapun Samae",
+  "jobs": "Good Job",
+    "location": "Thailand wow",
+    "phone": "08745345",
+    "image": "someimage",
+    "about": "lorem something very long woow"
+}
